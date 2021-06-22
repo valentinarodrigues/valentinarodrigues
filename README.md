@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+![counter](https://enxcg2fb8sd0ynf.m.pipedream.net)
+
 I am Valentina, from India. Here are few things about me
+
 
 - 🔭 I’m currently working on Nestjs, GraphQL
 - 🌱 I’m currently learning Flutter
