@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I am Valentina, from India. Here are few things about me
 
 - 🔭 I’m currently working on Nestjs, GraphQL
 - 🌱 I’m currently learning Flutter
