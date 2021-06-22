@@ -10,3 +10,6 @@ I am Valentina, from India. Here are few things about me
 - 📫 How to reach me: therodriguesvalentina@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ✨
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=valentinarodrigues)
